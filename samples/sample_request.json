@@ -1,0 +1,57 @@
+{
+  "contact": {
+    "full_name": "Alex Morgan",
+    "email": "alex.morgan@example.com",
+    "phone": "+1 214-555-0147",
+    "location": "Dallas, TX",
+    "linkedin": "https://linkedin.com/in/alexmorgan-data"
+  },
+  "target_role": "Senior Data Analyst",
+  "target_job_description": "We are hiring a Senior Data Analyst to own business reporting. You will build executive dashboards in Power BI, write complex SQL queries, and use Python for analysis. Experience with Tableau and Excel, strong data visualization skills, statistics, and stakeholder management are required.",
+  "skills": ["Python", "Excel", "Tableau", "Statistics", "Data Cleaning", "Pandas", "Data Visualization", "Stakeholder Management"],
+  "experience": [
+    {
+      "job_title": "Data Analyst",
+      "company": "RetailCo",
+      "location": "Dallas, TX",
+
+      "start_date": "2023-06",
+      "end_date": null,
+      "description": "Worked on monthly KPI reporting for the finance leadership team.",
+      "achievements": [
+        "responsible for creating weekly sales dashboards in Tableau for 12 regional managers.",
+        "I automated data cleaning scripts in Python, reducing report preparation time by 40%",
+        "analyse customer purchase patterns to identify upsell opportunities worth $250K annually"
+      ]
+    },
+    {
+      "job_title": "Junior Data Analyst",
+      "company": "FinServe Analytics",
+      "location": "Austin, TX",
+      "start_date": "2021-06",
+      "end_date": "2023-05",
+      "description": "Built Excel models to forecast quarterly revenue with 95% accuracy. Helped with data quality audits across 3 business units.",
+      "achievements": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Churn Dashboard",
+      "description": "Designed an interactive dashboard combining transaction and support data to flag at-risk customers",
+      "technologies": ["Python", "Tableau", "Pandas"],
+      "outcome": "Helped the retention team reduce churn by 8% within two quarters"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc.",
+      "field_of_study": "Statistics",
+      "institution": "State University",
+      "graduation_year": 2021
+    }
+  ],
+  "certifications": [
+    {"name": "Tableau Desktop Specialist", "issuer": "Tableau", "year": 2022}
+  ],
+  "tone": "professional"
+}

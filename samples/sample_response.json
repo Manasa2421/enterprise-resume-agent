@@ -1,0 +1,190 @@
+{
+  "request_id": "3f9c2a7e1b4d4e8f9a6c0d2e5b7f1a3c",
+  "status": "completed",
+  "generated_at": "2026-10-06T15:59:28.647789+00:00",
+  "processing_time_ms": 52.47,
+  "profile_analysis": {
+    "candidate_level": "Mid-Level",
+    "primary_domain": "Data Analytics",
+    "secondary_domains": [
+      "Data Science & Machine Learning",
+      "Software Engineering"
+    ],
+    "years_experience": 5.4,
+    "core_skills": [
+      "Python",
+      "Excel",
+      "Tableau",
+      "Statistics",
+      "Data Cleaning",
+      "Pandas",
+      "Data Visualization",
+      "Stakeholder Management"
+    ],
+    "career_highlights": [
+      "Created weekly sales dashboards in Tableau for 12 regional managers",
+      "Automated data cleaning scripts in Python, reducing report preparation time by 40%",
+      "Analyzed customer purchase patterns to identify upsell opportunities worth $250K annually"
+    ],
+    "strengths": [
+      "Solid Data Analytics toolkit including Python, Excel, Tableau",
+      "Demonstrated measurable business impact (4 quantified achievements)",
+      "Cross-organisation experience across 2 employers",
+      "Expertise validated by 1 professional certification",
+      "Hands-on project portfolio (1 project)"
+    ],
+    "gaps": []
+  },
+  "ats_analysis": {
+    "ats_score": 76,
+    "optimized_ats_score": 89,
+    "score_breakdown": {
+      "keyword_match": 39,
+      "quantified_impact": 20,
+      "action_verbs": 2,
+      "section_completeness": 15
+    },
+    "keyword_source": "job_description",
+    "matched_keywords": [
+      "Reporting",
+      "Python",
+      "Tableau",
+      "Excel",
+      "Data Visualization",
+      "Statistics",
+      "Stakeholder Management"
+    ],
+    "missing_keywords": [
+      "Power BI",
+      "SQL"
+    ],
+    "formatting_suggestions": [
+      "Use a single-column layout with standard headings (Summary, Experience, Skills, Education); ATS parsers often misread tables, text boxes and multi-column designs",
+      "Submit as .docx or a text-based PDF (not a scanned image) so the ATS can extract text",
+      "5 of 6 bullets do not open with a strong action verb",
+      "Replace passive openers such as 'Responsible for' with achievement-led verbs"
+    ],
+    "skill_alignment_suggestions": [
+      "Lead the skills section with matched keywords: Reporting, Python, Tableau, Excel, Data Visualization, Statistics",
+      "If you have genuine experience with Power BI, SQL, add them to Skills and evidence them in a relevant bullet; do not list skills you cannot discuss in an interview"
+    ],
+    "role_targeting_notes": [
+      "Target role appears more senior than the profile (Mid-Level); emphasise ownership and leadership scope"
+    ]
+  },
+  "resume": {
+    "header": {
+      "full_name": "Alex Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "+1 214-555-0147",
+      "location": "Dallas, TX",
+      "linkedin": "https://linkedin.com/in/alexmorgan-data",
+      "portfolio": null
+    },
+    "professional_summary": "Results-driven Data Analyst with 5+ years of experience in Data Analytics. Skilled in Python, Tableau, Excel and Data Visualization. Known for turning complex datasets into clear, actionable insights that drive business decisions. Holds Tableau Desktop Specialist certification.",
+    "skills": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Data & Analytics": [
+        "Excel",
+        "Tableau",
+        "Statistics",
+        "Data Visualization",
+        "Data Cleaning",
+        "Pandas"
+      ],
+      "Methodologies": [
+        "Stakeholder Management"
+      ]
+    },
+    "experience": [
+      {
+        "job_title": "Data Analyst",
+        "company": "RetailCo",
+        "location": "Dallas, TX",
+        "date_range": "Jun 2023 – Present",
+        "bullets": [
+          "Created weekly sales dashboards in Tableau for 12 regional managers",
+          "Automated data cleaning scripts in Python, reducing report preparation time by 40%",
+          "Analyzed customer purchase patterns to identify upsell opportunities worth $250K annually",
+          "Contributed to monthly KPI reporting for the finance leadership team"
+        ]
+      },
+      {
+        "job_title": "Junior Data Analyst",
+        "company": "FinServe Analytics",
+        "location": "Austin, TX",
+        "date_range": "Jun 2021 – May 2023",
+        "bullets": [
+          "Built Excel models to forecast quarterly revenue with 95% accuracy",
+          "Supported data quality audits across 3 business units"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Customer Churn Dashboard",
+        "description": "Designed an interactive dashboard combining transaction and support data to flag at-risk customers. Helped the retention team reduce churn by 8% within two quarters.",
+        "technologies": [
+          "Python",
+          "Tableau",
+          "Pandas"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.Sc. in Statistics",
+        "institution": "State University",
+        "year": 2021,
+        "details": null
+      }
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist — Tableau (2022)"
+    ]
+  },
+  "review": {
+    "approved": true,
+    "quality_score": 100,
+    "issues": [],
+    "corrections_applied": [
+      "Data Analyst at RetailCo spelling: Analyse → analyze",
+      "Data Analyst at RetailCo: tense aligned → 'Analyzed'",
+      "Normalised formatting in 1 bullet(s) (capitalisation, punctuation, spacing)"
+    ]
+  },
+  "metadata": {
+    "llm_provider": "mock",
+    "llm_model": "deterministic-engine",
+    "revision_count": 0,
+    "security_flags": 0,
+    "agent_trace": [
+      {
+        "agent": "profile_analyzer",
+        "status": "success",
+        "duration_ms": 35.29,
+        "used_llm": false
+      },
+      {
+        "agent": "ats_optimizer",
+        "status": "success",
+        "duration_ms": 13.82,
+        "used_llm": false
+      },
+      {
+        "agent": "resume_writer",
+        "status": "success",
+        "duration_ms": 1.07,
+        "used_llm": false
+      },
+      {
+        "agent": "reviewer",
+        "status": "success",
+        "duration_ms": 0.6,
+        "used_llm": false
+      }
+    ]
+  }
+}
